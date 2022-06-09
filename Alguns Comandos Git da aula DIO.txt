@@ -1,0 +1,31 @@
+Comandos Git:
+
+- git init
+Iniciar um repositório local.
+
+- git config --global user.name
+Configurar nome.
+
+- git config --global user.email
+Configurar email.
+
+- git add
+Adicionar arquivos e diretórios modificados.
+
+- git commit -m "digitar mensagem de commit"
+Comitar um arquivo.
+
+- git status
+Estado dos arquivos/diretório.
+
+- git remote add origin + link
+Enviar arquivo ao repositório remoto.
+
+- git remote -v
+Verificar os arquivos enviados.
+
+- git push origin main
+Criar um branch remoto.
+
+- git pull origin main  
+Download de todos os arquivos do repositório remoto para o local.
